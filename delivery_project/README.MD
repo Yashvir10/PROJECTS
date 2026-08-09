@@ -19,5 +19,3 @@ An end-to-end route optimization system comparing **Dijkstra's algorithm** and *
 | Frontend | Streamlit, Folium |
 | Testing | Pytest |
 | Analysis | Jupyter, Matplotlib, Pandas |
-
-## Project Structure
